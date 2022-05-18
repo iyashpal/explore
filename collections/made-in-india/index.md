@@ -1,5 +1,6 @@
 ---
 items:
+ - adonisjs/core
  - TheAlgorithms
  - odpf
  - hoppscotch/hoppscotch
